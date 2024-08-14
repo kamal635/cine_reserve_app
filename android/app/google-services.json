@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933185336061",
+    "project_id": "cinemareserve-2bce9",
+    "storage_bucket": "cinemareserve-2bce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933185336061:android:88d276d4228b5a24b1c494",
+        "android_client_info": {
+          "package_name": "com.example.cine_reserve_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRsKq71aBHGe_MWD-1-bORIZ8C77o04Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
