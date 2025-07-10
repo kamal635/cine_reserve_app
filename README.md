@@ -10,11 +10,20 @@ This app allows users to browse movies, search, book tickets, select seats, and 
 
 | No Internet | Home | Movie Details | Select Date/Time |
 |-------------|------|--------------|------------------|
-| ![No Internet](https://i.imgur.com/your1.png) | ![Home](https://i.imgur.com/your2.png) | ![Details](https://i.imgur.com/your3.png) | ![Date/Time](https://i.imgur.com/your4.png) |
+| ![No Internet] ![WhatsApp Image 2025-07-10 at 6 46 54 PM](https://github.com/user-attachments/assets/344db3c0-b212-482e-8844-37ea80eb3112)
+| ![Home] ![WhatsApp Image 2025-07-10 at 6 46 53 PM(3)](https://github.com/user-attachments/assets/6ede3043-9706-4d1d-8f31-f173f4bd53c5)
+| ![Details] ![WhatsApp Image 2025-07-10 at 6 46 53 PM(2)](https://github.com/user-attachments/assets/cf64e08f-064e-45b1-8e1c-186e5b6f502d)
+| ![Date/Time] ![WhatsApp Image 2025-07-10 at 6 46 53 PM(1)](https://github.com/user-attachments/assets/0b272434-d689-485d-96ed-e92d7fc481b7)
+ |
 
 | Select Seats | Select Seats (Selected) | Confirm | Mobile Ticket | Search |
 |--------------|------------------------|---------|--------------|--------|
-| ![Seats](https://i.imgur.com/your5.png) | ![Seats Selected](https://i.imgur.com/your6.png) | ![Confirm](https://i.imgur.com/your7.png) | ![Ticket](https://i.imgur.com/your8.png) | ![Search](https://i.imgur.com/your9.png) |
+| ![Seats]![WhatsApp Image 2025-07-10 at 6 46 53 PM](https://github.com/user-attachments/assets/3fbecec0-e17b-45c8-a91c-3648d09c09e5)
+  | ![Seats Selected] ![WhatsApp Image 2025-07-10 at 6 46 52 PM(3)](https://github.com/user-attachments/assets/51aa8b97-fe81-435a-a590-dc644449d217)
+ | ![Confirm] ![WhatsApp Image 2025-07-10 at 6 46 52 PM(2)](https://github.com/user-attachments/assets/8410d594-b3c4-40d9-8c7d-3953f10dd932)
+| ![Ticket] ![WhatsApp Image 2025-07-10 at 6 46 52 PM(1)](https://github.com/user-attachments/assets/db80ded7-7533-49ce-b9a1-93117ecf0084)
+ | ![Search] ![WhatsApp Image 2025-07-10 at 6 46 52 PM](https://github.com/user-attachments/assets/0788e53f-3187-42d3-87f5-8c01e1dfe3eb)
+ |
 
 ---
 
