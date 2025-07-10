@@ -7,14 +7,9 @@ This app allows users to browse movies, search, book tickets, select seats, and 
 ---
 
 ## 📱 Screenshots
+![MixCollage-10-Jul-2025-07-15-PM-6125](https://github.com/user-attachments/assets/adad9c21-55c1-4a4a-9199-15e072c5a6e0)
 
-| No Internet | Home | Movie Details | Select Date/Time |
-|-------------|------|--------------|------------------|
-| ![No Internet] ![WhatsApp Image 2025-07-10 at 6 46 54 PM](https://github.com/user-attachments/assets/344db3c0-b212-482e-8844-37ea80eb3112)
-| ![Home] ![WhatsApp Image 2025-07-10 at 6 46 53 PM(3)](https://github.com/user-attachments/assets/6ede3043-9706-4d1d-8f31-f173f4bd53c5)
-| ![Details] ![WhatsApp Image 2025-07-10 at 6 46 53 PM(2)](https://github.com/user-attachments/assets/cf64e08f-064e-45b1-8e1c-186e5b6f502d)
-| ![Date/Time] ![WhatsApp Image 2025-07-10 at 6 46 53 PM(1)](https://github.com/user-attachments/assets/0b272434-d689-485d-96ed-e92d7fc481b7)
- |
+
 
 | Select Seats | Select Seats (Selected) | Confirm | Mobile Ticket | Search |
 |--------------|------------------------|---------|--------------|--------|
